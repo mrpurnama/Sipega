@@ -45,7 +45,7 @@ if(!isset($_SESSION['valid'])) {
 								<a class="nav-link" href="list_pesanan_admin.php">List Pemesanan Gedung</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="logout.php">Logout</a>
+								<a class="nav-link" href="logout_admin.php">Logout</a>
 							</li>
 						</ul>
 					</div>
